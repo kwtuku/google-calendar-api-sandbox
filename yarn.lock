@@ -1786,6 +1786,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.24.tgz#c37ac69cb2948afb4cef95f424fa0037971a9a5c"
   integrity sha512-yxDeaQIAJlMav7fH5AQqPH1u8YIuhYJXYBzxaQ4PifsU0GDO38MSdmEDeRlIxrKbC6NbEaaEHDanWb+y30U8SQ==
 
+"@types/node@^9.6.39":
+  version "9.6.61"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.61.tgz#29f124eddd41c4c74281bd0b455d689109fc2a2d"
+  integrity sha512-/aKAdg5c8n468cYLy2eQrcR5k6chlbNwZNGUj3TboyPa2hcO2QAJcfymlqPzMiRj8B6nYKXjzQz36minFE0RwQ==
+
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
@@ -9056,6 +9061,13 @@ react-error-overlay@^6.0.9:
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha512-nQTTcUu+ATDbrSD1BZHr5kgSD4oF8OFjxun8uAaL8RwPBacGBNPf/yAuVVdx17N8XNzRDMrZ9XcKZHCjPW+9ew==
+
+react-google-calendar-api@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/react-google-calendar-api/-/react-google-calendar-api-1.4.0.tgz#cdf6850244573a8fcffae7cb22b7a6bd28c0cb14"
+  integrity sha512-ZE2AsoysL9euqHUmjWugU4+dubgMEdhqu6URbSNGax5m89CpqcppwQk2PlQqrHE+kxhUBR43uVjFdoMCfWbJCA==
+  dependencies:
+    "@types/node" "^9.6.39"
 
 react-is@^16.8.1:
   version "16.13.1"
