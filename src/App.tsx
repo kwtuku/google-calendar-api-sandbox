@@ -1,8 +1,10 @@
+import DoubleButton from "./DoubleButton";
+
 function App() {
   return (
-    <p>
-      Hello world
-    </p>
+    <>
+      <DoubleButton />
+    </>
   );
 }
 
